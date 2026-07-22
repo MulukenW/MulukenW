@@ -1,9 +1,9 @@
 <p align="center">
   <!-- Typing SVG by Muluken - https://github.com/MulukenW/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/MulukenW">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Muluken+Woldesenbet;Full-Stack+Developer;React+%7C+Node.js+%7C+Laravel;Java+%7C+Python+%7C+JavaScript;Machine+Learning+%26+Artificial+Intelligence;Building+Modern+Web+Applications;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/MulukenW/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Muluken+Woldesenbet;Full-Stack+Developer;Laboratory+Technician+at+Madda+Walabu+University;10%2B+Years+of+Technical+Experience;React+%7C+Node.js+%7C+Laravel+%7C+MongoDB;Machine+Learning+and+AI+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
+</a>
 </p>
 </p>
 
