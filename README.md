@@ -30,7 +30,7 @@
 <!-- View counter - https://github.com/MulukenW/Simple-View-Counter -->
 <p align="center">
   <a href="https://www.youtube.com/@makidatubetube?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/Muluken/app/youtube-stats-badges/subscribers-badge.php"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="httMulukenWMulukenWps://www.youtube.com/@makidatubetube">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/Muluken/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/MulukenW?tab=repositories&sort=stargazers">
