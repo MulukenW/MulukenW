@@ -5,8 +5,11 @@
 
 <p align="center">
   <!-- Typing SVG by Muluken - https://github.com/MulukenW/readme-typing-svg -->
-  <a href="https://github.com/MulukenW/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+<p align="center">
+  <a href="https://github.com/MulukenW">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Muluken+Woldesenbet;Full-Stack+Developer;React+%7C+Node.js+%7C+Laravel;Java+%7C+Python+%7C+JavaScript;Machine+Learning+%26+Artificial+Intelligence;Building+Modern+Web+Applications;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 </p>
 
 <!-- Social icons section -->
