@@ -2,7 +2,7 @@
   <!-- Typing SVG by Muluken - https://github.com/MulukenW/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/MulukenW/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Muluken+Woldesenbet;Full-Stack+Developer;Laboratory+Technician+at+Madda+Walabu+University;10%2B+Years+of+Technical+Experience;React+%7C+Node.js+%7C+Laravel+%7C+MongoDB;Machine+Learning+and+AI+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Muluken+Woldesenbet;Full-Stack+Developer;Employee+at+Madda+Walabu+University;10%2B+Years+of+Technical+Experience;React+%7C+Node.js+%7C+Laravel+%7C+MongoDB;Machine+Learning+and+AI+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
 </a>
 </p>
 </p>
